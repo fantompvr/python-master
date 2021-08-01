@@ -1,2 +1,2 @@
-name = input('what is your name? ')
-print('hello ' + name)
+name = input('since when u learned python? ')
+print('umm ' + name)
